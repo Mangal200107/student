@@ -1,2 +1,2 @@
 # student
-demo in git &amp; github
+demo in git &amp; github.
